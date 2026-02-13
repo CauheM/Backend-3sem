@@ -1,0 +1,15 @@
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\bin\Debug\net10.0\Exercicio1.exe
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\bin\Debug\net10.0\Exercicio1.deps.json
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\bin\Debug\net10.0\Exercicio1.runtimeconfig.json
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\bin\Debug\net10.0\Exercicio1.dll
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\bin\Debug\net10.0\Exercicio1.pdb
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfo.cs
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.sourcelink.json
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.dll
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\refint\Exercicio1.dll
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.pdb
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\Exercicio1.genruntimeconfig.cache
+C:\Users\54440848800\Desktop\BackEnd-Moura3Sem\Backend\Revisão\Exercicio1\obj\Debug\net10.0\ref\Exercicio1.dll
