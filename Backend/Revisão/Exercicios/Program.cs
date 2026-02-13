@@ -1,4 +1,4 @@
-﻿using Exercicio1;
+﻿using Exercicios;
 
 Console.Clear();
 

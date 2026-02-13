@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
-namespace Exercicio1
+namespace Exercicios
 {
     public class Pessoa
     {
