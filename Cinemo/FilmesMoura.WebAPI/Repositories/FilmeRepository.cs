@@ -10,6 +10,7 @@ public class FilmeRepository : IFilmeRepository
         throw new NotImplementedException();
     }
 
+
     public void AtualizarIdUrl(Guid id, Filme filmeAtualizado)
     {
         throw new NotImplementedException();
@@ -31,6 +32,16 @@ public class FilmeRepository : IFilmeRepository
     }
 
     public List<Filme> Listar()
+    {
+        throw new NotImplementedException();
+    }
+
+    Filme IFilmeRepository.BuscarPorId(Guid id)
+    {
+        throw new NotImplementedException();
+    }
+
+    List<Filme> IFilmeRepository.Listar()
     {
         throw new NotImplementedException();
     }

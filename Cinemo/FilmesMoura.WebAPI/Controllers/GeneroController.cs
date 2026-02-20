@@ -1,5 +1,6 @@
 ﻿using FilmesMoura.WebAPI.interfaces;
 using FilmesMoura.WebAPI.Models;
+using FilmesMoura.WebAPI.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,6 +15,33 @@ namespace FilmesMoura.WebAPI.Controllers
         public GeneroController(IGeneroRepository generoRepository)
         {
             _generoRepository = generoRepository;
+        }
+
+        [HttpGet("{id}")]
+
+        public IActionResult GetByid(Guid id)
+        {
+            try
+            {
+                return Ok(_generoRepository.BuscarPorId(id));
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet]
+        public IActionResult Get()
+        {
+            try
+            {
+                return Ok(_generoRepository.Listar());
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
         }
 
         [HttpPost]

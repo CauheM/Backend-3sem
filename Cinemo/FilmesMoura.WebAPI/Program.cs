@@ -6,10 +6,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 //Adiciona o contexto do banco de dados (exemplo SQL server)
-builder.Services.AddDbContext<FilmeContext>(
-options => options.UseSqlServer
-(builder.Configuration.GetConnectionString("DefaultConnection"))
-);
+builder.Services.AddDbContext<FilmeContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IFilmeRepository, FilmeRepository>();
 builder.Services.AddScoped<IGeneroRepository, GeneroRepository>();
@@ -18,6 +15,7 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+app.MapControllers();
 
 app.Run();
+            

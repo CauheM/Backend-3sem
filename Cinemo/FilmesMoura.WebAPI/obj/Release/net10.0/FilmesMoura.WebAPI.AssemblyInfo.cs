@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e890a25e-357e-4931-aaa7-5c06b244a223")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilmesMoura.WebAPI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa0f31bdcc6499c30f9574f555110e642118fa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilmesMoura.WebAPI")]
