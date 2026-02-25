@@ -58,5 +58,53 @@ namespace FilmesMoura.WebAPI.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpPut("{id}")]
+
+        public IActionResult Put(Guid id, Genero generoAtualizado)
+        {
+            try
+            {
+                _generoRepository.AtualizarIdURL(id, generoAtualizado);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpPut]
+
+        public IActionResult Putbody(Genero generoAtualizado) 
+        {
+            try
+            {
+                _generoRepository.AtualizarIdCorpo(generoAtualizado);
+
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpDelete("{id}")]
+
+        public IActionResult Delete (Guid id)
+        {
+            try
+            {
+                _generoRepository.Deletar(id);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+
+                return BadRequest(e.Message);
+            }
+        }
     }
+   
 }

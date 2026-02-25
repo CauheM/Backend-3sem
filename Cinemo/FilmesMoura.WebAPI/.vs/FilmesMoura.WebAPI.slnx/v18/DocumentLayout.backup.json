@@ -1,60 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\repositories\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\repositories\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:repositories\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\bdcontextfilme\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:bdcontextfilme\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:interfaces\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmesMoura.WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmesMoura.WebAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\bdcontextfilme\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:bdcontextfilme\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-moura3sem\\cinemo\\filmesmoura.webapi\\filmesmoura.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|c:\\users\\54440848800\\desktop\\backend-3sem\\cinemo\\filmesmoura.webapi\\filmesmoura.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4030E16B-AB42-0A4A-9C29-8BD968D499BC}|FilmesMoura.WebAPI.csproj|solutionrelative:filmesmoura.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -65,41 +76,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:49:27.415Z",
+              "WhenOpened": "2026-02-25T19:02:21.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Controllers\\GeneroController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T16:00:21.894Z",
+              "WhenOpened": "2026-02-18T19:12:17.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "GeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\GeneroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GeneroRepository.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\GeneroRepository.cs",
+              "RelativeToolTip": "Repositories\\GeneroRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:36:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -108,50 +132,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeneroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\GeneroRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GeneroRepository.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\GeneroRepository.cs",
-              "RelativeToolTip": "Repositories\\GeneroRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:36:54.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FilmeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\FilmeRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\FilmeRepository.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Repositories\\FilmeRepository.cs",
               "RelativeToolTip": "Repositories\\FilmeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T18:29:25.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IGeneroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IGeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IGeneroRepository.cs",
               "RelativeDocumentMoniker": "interfaces\\IGeneroRepository.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IGeneroRepository.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IGeneroRepository.cs",
               "RelativeToolTip": "interfaces\\IGeneroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T17:00:42.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IFilmeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IFilmeRepository.cs",
               "RelativeDocumentMoniker": "interfaces\\IFilmeRepository.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\interfaces\\IFilmeRepository.cs",
               "RelativeToolTip": "interfaces\\IFilmeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,58 +171,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Filme.cs",
+              "RelativeToolTip": "Models\\Filme.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:45:46.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\BdContextFilme\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "BdContextFilme\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\BdContextFilme\\FilmeContext.cs",
+              "RelativeToolTip": "BdContextFilme\\FilmeContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:27:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\GeneroController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\GeneroController.cs",
-              "RelativeToolTip": "Controllers\\GeneroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T19:12:17.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FilmesMoura.WebAPI.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:49:21.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FilmesMoura.WebAPI.csproj.user",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user",
-              "RelativeDocumentMoniker": "FilmesMoura.WebAPI.csproj.user",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user",
-              "RelativeToolTip": "FilmesMoura.WebAPI.csproj.user",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2026-02-20T11:48:13.754Z",
+              "WhenOpened": "2026-02-25T16:44:12.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\Models\\Filme.cs",
-              "RelativeToolTip": "Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:45:46.406Z"
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPEUAAAAAAAAAAAgwAQVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-20T19:26:02.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:00:21.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmesMoura.WebAPI.csproj.user",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user",
+              "RelativeDocumentMoniker": "FilmesMoura.WebAPI.csproj.user",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj.user",
+              "RelativeToolTip": "FilmesMoura.WebAPI.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-02-20T11:48:13.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:49:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilmesMoura.WebAPI.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:49:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -223,27 +284,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FilmeContext.cs",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\BdContextFilme\\FilmeContext.cs",
-              "RelativeDocumentMoniker": "BdContextFilme\\FilmeContext.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\BdContextFilme\\FilmeContext.cs",
-              "RelativeToolTip": "BdContextFilme\\FilmeContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T16:27:35.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "FilmesMoura.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj",
               "RelativeDocumentMoniker": "FilmesMoura.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\BackEnd-Moura3Sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\FilmesMoura.WebAPI.csproj",
               "RelativeToolTip": "FilmesMoura.WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T11:33:49.713Z"
+              "WhenOpened": "2026-02-20T11:33:49.713Z",
+              "EditorCaption": ""
             }
           ]
         }

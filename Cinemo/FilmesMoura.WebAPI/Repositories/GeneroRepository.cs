@@ -1,6 +1,7 @@
 ﻿using FilmesMoura.WebAPI.BdContextFilme;
 using FilmesMoura.WebAPI.interfaces;
 using FilmesMoura.WebAPI.Models;
+using System.Data;
 
 namespace FilmesMoura.WebAPI.Repositories
 {
@@ -15,12 +16,43 @@ namespace FilmesMoura.WebAPI.Repositories
 
         public void AtualizarIdCorpo(Genero generoatualizado)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Genero generoBuscado = _context.Generos.Find(generoatualizado.Idgenero)!;
+                if(generoBuscado != null)
+                {
+                    generoBuscado.Nome = generoatualizado.Nome;
+                }
+
+                _context.Generos.Update(generoBuscado!);
+                _context.SaveChanges(); 
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public void AtualizarIdURL(Guid id, Genero genero)
+        public void AtualizarIdURL(Guid id, Genero generoAtualizado)
         {
-            throw new NotImplementedException();
+            try 
+            {
+                Genero generoBuscado = _context.Generos.Find(id.ToString())!;
+
+                if(generoBuscado != null)
+                {
+                    generoBuscado.Nome = generoAtualizado.Nome;
+
+                }
+
+                _context.Generos.Update(generoBuscado!);
+                _context.SaveChanges();
+            }
+            catch(Exception) 
+            {
+                throw;
+            }
         }
 
         public Genero BuscarPorId(Guid id)
@@ -54,7 +86,21 @@ namespace FilmesMoura.WebAPI.Repositories
 
         public void Deletar(Guid id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Genero generobuscado = _context.Generos.Find(id.ToString())!;
+
+                if(generobuscado != null)
+                {
+                    _context.Generos.Remove(generobuscado);
+                }
+                _context.SaveChanges();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public List<Genero> Listar()
