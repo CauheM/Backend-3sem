@@ -310,3 +310,11 @@ C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\ne
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\FilmesMoura.WebAPI.pdb
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\FilmesMoura.WebAPI.genruntimeconfig.cache
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\ref\FilmesMoura.WebAPI.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\libman.json
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\FilmesMoura.WebAPI.MvcApplicationPartsAssemblyInfo.cs
