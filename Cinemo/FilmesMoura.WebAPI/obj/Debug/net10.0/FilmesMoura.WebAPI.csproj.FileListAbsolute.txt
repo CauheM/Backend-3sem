@@ -318,3 +318,5 @@ C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\ne
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\FilmesMoura.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\bin\Debug\net10.0\FilmesMoura.WebAPI.staticwebassets.runtime.json
+C:\Users\54440848800\Desktop\Backend-3sem\Cinemo\FilmesMoura.WebAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
