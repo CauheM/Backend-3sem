@@ -10,7 +10,7 @@ namespace EventPlus.WebAPI.Controllers;
 [ApiController]
 public class TipoUsuarioController : ControllerBase
 {
-    private ITipoUsuario _tipoUsuario;
+    private readonly ITipoUsuario _tipoUsuario;
 
     public TipoUsuarioController(ITipoUsuario tipoUsuario)
     {

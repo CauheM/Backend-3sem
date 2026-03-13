@@ -10,7 +10,7 @@ namespace EventPlus.WebAPI.Controllers;
 [ApiController]
 public class InstituicaoController : ControllerBase
 {
-    private IInstituicao _instituicao;
+    private readonly IInstituicao _instituicao;
 
     public InstituicaoController (IInstituicao instituicao) 
     {

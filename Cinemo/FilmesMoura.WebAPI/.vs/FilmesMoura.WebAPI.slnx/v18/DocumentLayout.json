@@ -164,8 +164,8 @@
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\FilmeController.cs*",
-              "RelativeToolTip": "Controllers\\FilmeController.cs*",
+              "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Controllers\\FilmeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T16:44:12.647Z",
@@ -179,7 +179,7 @@
               "RelativeDocumentMoniker": "BdContextFilme\\FilmeContext.cs",
               "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\Cinemo\\FilmesMoura.WebAPI\\BdContextFilme\\FilmeContext.cs",
               "RelativeToolTip": "BdContextFilme\\FilmeContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T16:27:35.25Z",
               "EditorCaption": ""
@@ -310,7 +310,8 @@
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T13:35:26.889Z"
+              "WhenOpened": "2026-02-27T13:35:26.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -334,7 +335,8 @@
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T13:53:35.115Z"
+              "WhenOpened": "2026-02-27T13:53:35.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -346,7 +348,8 @@
               "RelativeToolTip": "libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-27T16:32:37.267Z"
+              "WhenOpened": "2026-02-27T16:32:37.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -358,7 +361,8 @@
               "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAUwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T13:38:32.125Z"
+              "WhenOpened": "2026-02-27T13:38:32.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -370,7 +374,8 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAUwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T16:38:17.473Z"
+              "WhenOpened": "2026-02-27T16:38:17.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -382,7 +387,8 @@
               "RelativeToolTip": "interfaces\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T13:24:28.895Z"
+              "WhenOpened": "2026-02-27T13:24:28.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -394,7 +400,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T16:49:33.05Z"
+              "WhenOpened": "2026-02-18T16:49:33.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -406,7 +413,8 @@
               "RelativeToolTip": "FilmesMoura.WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T11:33:49.713Z"
+              "WhenOpened": "2026-02-20T11:33:49.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -418,7 +426,8 @@
               "RelativeToolTip": "FilmesMoura.WebAPI.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2026-02-20T11:48:13.754Z"
+              "WhenOpened": "2026-02-20T11:48:13.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -430,7 +439,8 @@
               "RelativeToolTip": "obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:49:27.415Z"
+              "WhenOpened": "2026-02-20T11:49:27.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -442,7 +452,8 @@
               "RelativeToolTip": "obj\\Debug\\net10.0\\FilmesMoura.WebAPI.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:49:21.816Z"
+              "WhenOpened": "2026-02-20T11:49:21.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -452,7 +463,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AgIAAPUAAAAAAAAAAAApwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2026-02-20T11:46:51.819Z"
             }

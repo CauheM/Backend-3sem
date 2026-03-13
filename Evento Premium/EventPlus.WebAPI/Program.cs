@@ -14,8 +14,32 @@ builder.Services.AddDbContext<EventContext>(options => options.UseSqlServer(buil
 builder.Services.AddScoped<ITipoDeEventoRepository, TipoEventoRepository>();
 builder.Services.AddScoped<ITipoUsuario, TipoUsuarioRepository>();
 builder.Services.AddScoped<IInstituicao, InstituicaoRepository>();
+builder.Services.AddScoped<IUsuarioRepository,  UsuarioRepository>();
 
 //Adiciona o Swag
+builder.Services.AddEndpointsApiExplorer();
+
+//A bosta do token
+
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultChallengeScheme = "JwtBearer";
+    options.DefaultAuthenticateScheme = "JwtBearer";
+}).AddJwtBearer("JwtBearer", options =>
+    {
+        options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            IssuerSigningKey = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("Eventos-Usuario-chave-autenticacao-web-dev")),
+            ClockSkew = TimeSpan.FromMinutes(5),
+            ValidIssuer = "api_Eventos",
+            ValidAudience = "api_Eventos",
+        };
+    });
+
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen(options =>

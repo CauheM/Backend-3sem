@@ -1,6 +1,7 @@
 ﻿using EventPlus.WebAPI.DTO;
 using EventPlus.WebAPI.Interfaces;
 using EventPlus.WebAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,9 +11,9 @@ namespace EventPlus.WebAPI.Controllers;
 [ApiController]
 public class TipoEventoController : ControllerBase
 {
-    private ITipoDeEventoRepository _tipoDeEventoRepository;
+    private readonly ITipoDeEventoRepository _tipoDeEventoRepository;
     
-    //In    jeção de dependência
+    //Injeção de dependência
 
     public TipoEventoController(ITipoDeEventoRepository eventoDeEventoRepository)
     {
@@ -23,7 +24,8 @@ public class TipoEventoController : ControllerBase
     /// Endpoint da API q faz a chamada para o método de lista os tipos de evento
     /// </summary>
     /// <returns>Status code 200 e lista de tipos de evento</returns>
-        [HttpGet]
+    [Authorize]
+    [HttpGet]
     
         public IActionResult Listar()
         {
