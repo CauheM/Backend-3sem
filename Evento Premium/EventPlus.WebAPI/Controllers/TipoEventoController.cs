@@ -24,7 +24,7 @@ public class TipoEventoController : ControllerBase
     /// Endpoint da API q faz a chamada para o método de lista os tipos de evento
     /// </summary>
     /// <returns>Status code 200 e lista de tipos de evento</returns>
-    [Authorize]
+    //[Authorize]
     [HttpGet]
     
         public IActionResult Listar()

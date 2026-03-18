@@ -34,8 +34,8 @@ public class LoginController : ControllerBase
 
             var claims = new[]
             {
-              new Claim(JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario.ToString()),
-              new Claim(JwtRegisteredClaimNames.Email, usuarioBuscado.Email)
+              new Claim(System.IdentityModel.Tokens.Jwt.JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario.ToString()),
+              new Claim(System.IdentityModel.Tokens.Jwt.JwtRegisteredClaimNames.Email, usuarioBuscado.Email)
             };
 
             var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("Eventos-Usuario-chave-autenticacao-web"));
