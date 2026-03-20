@@ -1,3 +1,4 @@
+using Azure.AI.ContentSafety;
 using EventPlus.WebAPI.BdContextEvent;
 using EventPlus.WebAPI.Interfaces;
 using EventPlus.WebAPI.Repositories;
@@ -18,6 +19,14 @@ builder.Services.AddScoped<IInstituicao, InstituicaoRepository>();
 builder.Services.AddScoped<IUsuarioRepository,  UsuarioRepository>();
 builder.Services.AddScoped<IEventoRepository, EventoRepository>();
 builder.Services.AddScoped<IPresencaRepository, PresencaRepository>();
+builder.Services.AddScoped<IComentarioEventoRepository, ComentarioEventoRepository>();
+
+//Configuração do Azure Content Safety (tira do comentario para funcionar)
+var endpoint = "https://moderatorservise-cauhe.cognitiveservices.azure.com/";
+var apikey = "";
+
+var client = new ContentSafetyClient(new Uri(endpoint), new Azure.AzureKeyCredential(apikey));
+builder.Services.AddSingleton(client);
 
 //Adiciona o Swag
 builder.Services.AddEndpointsApiExplorer();

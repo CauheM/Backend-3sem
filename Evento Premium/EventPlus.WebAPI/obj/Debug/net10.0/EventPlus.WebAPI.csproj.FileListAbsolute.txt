@@ -163,3 +163,4 @@ C:\Users\54440848800\Desktop\Backend-3sem\Evento Premium\EventPlus.WebAPI\bin\De
 C:\Users\54440848800\Desktop\Backend-3sem\Evento Premium\EventPlus.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\54440848800\Desktop\Backend-3sem\Evento Premium\EventPlus.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\54440848800\Desktop\Backend-3sem\Evento Premium\EventPlus.WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\54440848800\Desktop\Backend-3sem\Evento Premium\EventPlus.WebAPI\bin\Debug\net10.0\Azure.AI.ContentSafety.dll
