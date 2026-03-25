@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
               "ToolTip": "C:\\Users\\54440848800\\Desktop\\Backend-3sem\\ConnectPLUS\\ConnectPLUS\\Controllers\\ContatosController.cs",
               "RelativeToolTip": "Controllers\\ContatosController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwF0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T16:07:19.244Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Repositories\\ContatoRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T13:58:51.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T13:58:51.025Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Interfaces\\IContratoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T13:54:29.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T13:54:29.862Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "Controllers\\TipoContatoController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:07:02.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T14:07:02.714Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "DTO\\ContatoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T16:04:12.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T16:04:12.731Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T13:26:31.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T13:26:31.433Z"
             },
             {
               "$type": "Document",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "Models\\Contato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T16:00:20.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T16:00:20.988Z"
             },
             {
               "$type": "Document",

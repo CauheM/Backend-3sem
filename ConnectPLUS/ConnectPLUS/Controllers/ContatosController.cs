@@ -96,16 +96,57 @@ public class ContatosController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public IActionResult Atualizar(Guid id, Contato contato)
+    public async Task<IActionResult> Put(Guid id, [FromForm] ContatoDTO contatoDTO)
     {
+        var contato = _contatoRepository.BuscarPorId(id);
+
+        if (contato == null)
+            return NotFound("Contato não encontrado");
+
+        if (!string.IsNullOrWhiteSpace(contatoDTO.Nome))
+            contato.Nome = contatoDTO.Nome;
+
+        if (contatoDTO.IdTipoContato.HasValue &&
+            contatoDTO.IdTipoContato.Value != contato.IdTipoDeContrato)
+        {
+            contato.IdTipoDeContrato = contatoDTO.IdTipoContato.Value;
+        }
+
+        // Atualizar imagem
+        if (contatoDTO.Imagem != null && contatoDTO.Imagem.Length > 0)
+        {
+            var pasta = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens");
+
+            if (!Directory.Exists(pasta))
+                Directory.CreateDirectory(pasta);
+
+            // Deleta imagem antiga
+            if (!string.IsNullOrEmpty(contato.Imagem))
+            {
+                var caminhoAntigo = Path.Combine(pasta, contato.Imagem);
+                if (System.IO.File.Exists(caminhoAntigo))
+                    System.IO.File.Delete(caminhoAntigo);
+            }
+
+            var nomeArquivo = $"{Guid.NewGuid()}{Path.GetExtension(contatoDTO.Imagem.FileName)}";
+            var caminhoNovo = Path.Combine(pasta, nomeArquivo);
+
+            using (var stream = new FileStream(caminhoNovo, FileMode.Create))
+            {
+                await contatoDTO.Imagem.CopyToAsync(stream);
+            }
+
+            contato.Imagem = nomeArquivo;
+        }
+
         try
         {
             _contatoRepository.Atualizar(id, contato);
-            return Ok("Contato atualizado com sucesso!");
+            return NoContent();
         }
-        catch (Exception erro)
+        catch (Exception e)
         {
-            return BadRequest(erro.Message);
+            return BadRequest(e.Message);
         }
     }
 

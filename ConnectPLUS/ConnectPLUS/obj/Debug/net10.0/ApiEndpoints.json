@@ -58,7 +58,7 @@
   },
   {
     "ContainingType": "ConnectPLUS.Controllers.ContatosController",
-    "Method": "Atualizar",
+    "Method": "Put",
     "RelativePath": "api/Contatos/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -70,9 +70,24 @@
         "IsRequired": true
       },
       {
-        "Name": "contato",
-        "Type": "ConnectPLUS.Models.Contato",
-        "IsRequired": true
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FormaDeContato",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Imagem",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdTipoContato",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

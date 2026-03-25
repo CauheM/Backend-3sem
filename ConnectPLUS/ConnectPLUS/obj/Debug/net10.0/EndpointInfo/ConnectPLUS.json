@@ -115,19 +115,39 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/Contato"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Contato"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Contato"
+                "type": "object",
+                "properties": {
+                  "Nome": {
+                    "type": "string"
+                  },
+                  "FormaDeContato": {
+                    "type": "string"
+                  },
+                  "Imagem": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "IdTipoContato": {
+                    "type": "string",
+                    "format": "uuid"
+                  }
+                }
+              },
+              "encoding": {
+                "Nome": {
+                  "style": "form"
+                },
+                "FormaDeContato": {
+                  "style": "form"
+                },
+                "Imagem": {
+                  "style": "form"
+                },
+                "IdTipoContato": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -288,65 +308,6 @@
   },
   "components": {
     "schemas": {
-      "Contato": {
-        "type": "object",
-        "properties": {
-          "idContato": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "nome": {
-            "maxLength": 100,
-            "minLength": 0,
-            "type": "string",
-            "nullable": true
-          },
-          "formaDeContato": {
-            "maxLength": 100,
-            "minLength": 0,
-            "type": "string",
-            "nullable": true
-          },
-          "imagem": {
-            "maxLength": 100,
-            "minLength": 0,
-            "type": "string",
-            "nullable": true
-          },
-          "idTipoDeContrato": {
-            "type": "string",
-            "format": "uuid",
-            "nullable": true
-          },
-          "idTipoDeContratoNavigation": {
-            "$ref": "#/components/schemas/TipoContato"
-          }
-        },
-        "additionalProperties": false
-      },
-      "TipoContato": {
-        "type": "object",
-        "properties": {
-          "idTipoContato": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "titulo": {
-            "maxLength": 100,
-            "minLength": 0,
-            "type": "string",
-            "nullable": true
-          },
-          "contatos": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Contato"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "TipoContatoDTO": {
         "required": [
           "titulo"
