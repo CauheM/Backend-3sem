@@ -81,12 +81,13 @@ public class ContatosController : ControllerBase
         }
 
         contato.Nome = contatoDTO.Nome;
+        contato.FormaDeContato = contatoDTO.FormaDeContato!;
         contato.IdTipoDeContrato = contatoDTO.IdTipoContato.Value;
 
         try
         {
             _contatoRepository.Cadastrar(contato);
-            return StatusCode(201);
+            return StatusCode(201, contato);
         }
         catch (Exception e)
         {
