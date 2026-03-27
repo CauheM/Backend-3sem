@@ -123,9 +123,12 @@ public class ContatosController : ControllerBase
             // Deleta imagem antiga
             if (!string.IsNullOrEmpty(contato.Imagem))
             {
-                var caminhoAntigo = Path.Combine(pasta, contato.Imagem);
+                var Nomearquivo = Path.GetFileName(contato.Imagem);
+                var caminhoAntigo = Path.Combine(pasta, Nomearquivo);
+
                 if (System.IO.File.Exists(caminhoAntigo))
                     System.IO.File.Delete(caminhoAntigo);
+                
             }
 
             var nomeArquivo = $"{Guid.NewGuid()}{Path.GetExtension(contatoDTO.Imagem.FileName)}";
