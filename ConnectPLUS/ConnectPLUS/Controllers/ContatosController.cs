@@ -144,7 +144,7 @@ public class ContatosController : ControllerBase
         try
         {
             _contatoRepository.Atualizar(id, contato);
-            return NoContent();
+            return StatusCode(204, contato);
         }
         catch (Exception e)
         {
