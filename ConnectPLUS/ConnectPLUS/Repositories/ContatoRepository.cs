@@ -49,6 +49,6 @@ public class ContatoRepository : IContratoRepository
 
     public List<Contato> Listar()
     {
-        return _context.Contatos.OrderBy(tc => tc.Nome).ToList();
+        return _context.Contatos.OrderBy(c => c.Nome).ToList();
     }
 }

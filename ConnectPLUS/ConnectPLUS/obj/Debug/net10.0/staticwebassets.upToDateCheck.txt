@@ -19,4 +19,4 @@ wwwroot\imagens\dc0468f2-bcbb-4d96-9735-11516fe7453f.jpeg
 wwwroot\imagens\09813005-e1b5-4f56-9e0f-dcd21eb590db.jpg
 wwwroot\imagens\3344d589-ebc7-4796-b40c-6e12f8453583.png
 wwwroot\imagens\469a6172-9663-4fec-b52d-739c9384aff4.png
-wwwroot\imagens\f6542753-985b-484f-b1b3-274a2c917776.png
+wwwroot\imagens\db4b8e6f-daf4-40a3-a807-35b1e9b40aee.png
