@@ -82,7 +82,7 @@ public class ContatosController : ControllerBase
 
         contato.Nome = contatoDTO.Nome;
         contato.FormaDeContato = contatoDTO.FormaDeContato!;
-        contato.IdTipoDeContrato = contatoDTO.IdTipoContato.Value;
+        contato.IdTipoDeContrato = contatoDTO.IdTipoContato;
 
         try
         {
@@ -135,7 +135,9 @@ public class ContatosController : ControllerBase
             {
                 await contatoDTO.Imagem.CopyToAsync(stream);
             }
-
+            
+            contato.FormaDeContato = contatoDTO.FormaDeContato!;
+            contato.IdTipoDeContrato = contatoDTO.IdTipoContato;
             contato.Imagem = nomeArquivo;
         }
 
