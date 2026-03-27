@@ -155,10 +155,27 @@ public class ContatosController : ControllerBase
     [HttpDelete("{id}")]
     public IActionResult Deletar(Guid id)
     {
+        var contatoBuscado = _contatoRepository.BuscarPorId(id);
+        if (contatoBuscado == null)
+            return NotFound("Contato não encontrado");
+
+        var pastaRelativa = "wwwroot/imagens";
+        var caminhoPasta = Path.Combine(Directory.GetCurrentDirectory(), pastaRelativa);
+
+        //Deletar o arquivo
+
+        if (!String.IsNullOrEmpty(contatoBuscado.Imagem))
+        {
+            var caminho = Path.Combine(caminhoPasta, contatoBuscado.Imagem);
+
+            if (System.IO.File.Exists(caminho))
+                System.IO.File.Delete(caminho);
+        }
+
         try
         {
             _contatoRepository.Deletar(id);
-            return Ok("Contato deletado com sucesso!");
+            return NoContent();
         }
         catch (Exception erro)
         {

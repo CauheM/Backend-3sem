@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectPLUS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42560b35ce9b92efffbaadeb55e8eae1c4a930c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7745eda2ba5dae6d0343be710166a14dd33def04")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectPLUS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectPLUS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
